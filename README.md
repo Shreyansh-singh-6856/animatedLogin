@@ -1,23 +1,38 @@
-# Login & Signup Animation Demo
+# 🔐 Animated Login & Signup Flow
 
-A React Native application showcasing beautiful, smooth animations for Login and Signup screens.
+A visually stunning authentication interface built with **React Native** and **Reanimated**. This project demonstrates how to create smooth, engaging entry animations and a polished user experience for mobile apps.
 
-## Features
-- **Smooth Transitions**: Seamless slide-up animations for content.
-- **Interactive UI**: Engaging input fields and buttons with shadow effects.
-- **Modern Design**: Clean aesthetics with a focus on user experience.
+## ✨ Features
 
+*   **Smooth Animations**: Orchestrated slide-up and fade-in effects using `react-native-reanimated`.
+*   **Modern UI**: Clean aesthetics with custom shadows, rounded corners, and linear gradients.
+*   **Interactive Inputs**: Polished text fields with focus states and validation styling.
+*   **Type-Safe**: Built entirely with **TypeScript** for reliability and maintainability.
+*   **Cross-Platform**: Optimized for both iOS and Android.
 
-## Demo
-![App Demo](./assets/screenshots/demo.gif)
+## 🛠 Tech Stack
 
-## Screenshots
+*   [React Native](https://reactnative.dev/)
+*   [TypeScript](https://www.typescriptlang.org/)
+*   [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+*   [React Navigation](https://reactnavigation.org/)
+*   [Linear Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 
-<p float="left">
-  <img src="./assets/screenshots/login.jpg" width="300" />
-  <img src="./assets/screenshots/signup.jpg" width="300" />
+## 📸 Screenshots & Demo
+
+<p align="center">
+  <img src="./assets/screenshots/demo.gif" height="500" />
 </p>
 
+<p align="center">
+  <img src="./assets/screenshots/login.jpg" width="45%" />
+  &nbsp; &nbsp;
+  <img src="./assets/screenshots/signup.jpg" width="45%" />
+</p>
+
+## 🚀 Getting Started
+
+... (Installation instructions)
 ## Getting Started
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
